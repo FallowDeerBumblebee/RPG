@@ -1,0 +1,9 @@
+F:\Projekty z programowania\C#\RPG\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+F:\Projekty z programowania\C#\RPG\Engine\bin\Debug\netstandard2.0\Engine.dll
+F:\Projekty z programowania\C#\RPG\Engine\bin\Debug\netstandard2.0\Engine.pdb
+F:\Projekty z programowania\C#\RPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+F:\Projekty z programowania\C#\RPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+F:\Projekty z programowania\C#\RPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+F:\Projekty z programowania\C#\RPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+F:\Projekty z programowania\C#\RPG\Engine\obj\Debug\netstandard2.0\Engine.dll
+F:\Projekty z programowania\C#\RPG\Engine\obj\Debug\netstandard2.0\Engine.pdb
